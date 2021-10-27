@@ -1,2 +1,3 @@
-fetch("https://raw.githubusercontent.com/cooperhack/blooket-hack/main/global/addTokens1000.js").then((res) => res.text().then((t) => eval(t)))
+fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
+
 
