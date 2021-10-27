@@ -1,3 +1,3 @@
-fetch("https://raw.githubusercontent.com/glixzzy/blooket-hack/main/global/addTokens.js").then((res) => res.text().then((t) => eval(t)))
+fetch('https://api.blooket.com/api/users/add-rewards',add_tokens,(1000 daily)')); 
 
 
