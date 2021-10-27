@@ -9,7 +9,7 @@ fetch('https://api.blooket.com/api/users/add-rewards', {
             addedTokens: add_tokens,
             addedXp: 1000,
             name: await getName(1000)
-        })
+        
     });
 
     if (response.status == 200) {
@@ -19,19 +19,4 @@ fetch('https://api.blooket.com/api/users/add-rewards', {
     };
 
 };
-
-addTokens(1000);
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
 
